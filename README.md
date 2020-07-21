@@ -2,7 +2,7 @@
 
 
 - ♔ Daniel ♔
- 🔭 I’m currently working on http://CodeMonkey.Games/hellophaser
+ 🔭 I’m currently working on http://CodeMonkey.Games/hellophaser/v2
 <!--
 **easierbycode/easierbycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
