@@ -3,6 +3,7 @@
 
 - ♔ Daniel ♔
  🔭 I’m currently working on https://easierbycode.github.io/hellophaser/v4
+https://easierbycode.github.io/pacman-halloween-2025
 <!--
 **easierbycode/easierbycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
